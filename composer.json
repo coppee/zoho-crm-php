@@ -2,7 +2,7 @@
     "name": "coppee/zoho-crm-php",
     "description": "A PHP wrapper library for Zoho CRM API.",
     "keywords": ["Zoho", "CRM", "API", "library", "wrapper", "client"],
-    "homepage": "https://github.com/tristanjahier/zoho-crm-php",
+    "homepage": "https://github.com/coppee/zoho-crm-php",
     "license": "MIT",
     "type": "library",
     "authors": [
