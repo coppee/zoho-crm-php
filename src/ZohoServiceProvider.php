@@ -1,5 +1,5 @@
 <?php
-namespace Zoho\CRM;
+namespace Zoho\Crm;
 
 use Illuminate\Support\ServiceProvider;
 
